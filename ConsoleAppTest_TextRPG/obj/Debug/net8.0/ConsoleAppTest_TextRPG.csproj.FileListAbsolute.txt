@@ -1,0 +1,14 @@
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\bin\Debug\net8.0\ConsoleAppTest_TextRPG.exe
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\bin\Debug\net8.0\ConsoleAppTest_TextRPG.deps.json
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\bin\Debug\net8.0\ConsoleAppTest_TextRPG.runtimeconfig.json
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\bin\Debug\net8.0\ConsoleAppTest_TextRPG.dll
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\bin\Debug\net8.0\ConsoleAppTest_TextRPG.pdb
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\obj\Debug\net8.0\ConsoleAppTest_TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\obj\Debug\net8.0\ConsoleAppTest_TextRPG.AssemblyInfoInputs.cache
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\obj\Debug\net8.0\ConsoleAppTest_TextRPG.AssemblyInfo.cs
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\obj\Debug\net8.0\ConsoleAppTest_TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\obj\Debug\net8.0\ConsoleAppTest_TextRPG.dll
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\obj\Debug\net8.0\refint\ConsoleAppTest_TextRPG.dll
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\obj\Debug\net8.0\ConsoleAppTest_TextRPG.pdb
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\obj\Debug\net8.0\ConsoleAppTest_TextRPG.genruntimeconfig.cache
+C:\Users\81908\source\repos\ConsoleAppTest_TextRPG\ConsoleAppTest_TextRPG\obj\Debug\net8.0\ref\ConsoleAppTest_TextRPG.dll

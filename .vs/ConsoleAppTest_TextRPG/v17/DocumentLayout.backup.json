@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|c:\\users\\81908\\source\\repos\\consoleapptest_textrpg\\consoleapptest_textrpg\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|solutionrelative:consoleapptest_textrpg\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|c:\\users\\81908\\source\\repos\\consoleapptest_textrpg\\consoleapptest_textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|solutionrelative:consoleapptest_textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|c:\\users\\81908\\source\\repos\\consoleapptest_textrpg\\consoleapptest_textrpg\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|solutionrelative:consoleapptest_textrpg\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|c:\\users\\81908\\source\\repos\\consoleapptest_textrpg\\consoleapptest_textrpg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|solutionrelative:consoleapptest_textrpg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|c:\\users\\81908\\source\\repos\\consoleapptest_textrpg\\consoleapptest_textrpg\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|solutionrelative:consoleapptest_textrpg\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|c:\\users\\81908\\source\\repos\\consoleapptest_textrpg\\consoleapptest_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|solutionrelative:consoleapptest_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|c:\\users\\81908\\source\\repos\\consoleapptest_textrpg\\consoleapptest_textrpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|solutionrelative:consoleapptest_textrpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|c:\\users\\81908\\source\\repos\\consoleapptest_textrpg\\consoleapptest_textrpg\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424B8D8E-8D28-42A6-AD5D-CCDCBE93B3FB}|ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG.csproj|solutionrelative:consoleapptest_textrpg\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Inventory.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest_TextRPG\\Inventory.cs",
+              "ToolTip": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Inventory.cs",
+              "RelativeToolTip": "ConsoleAppTest_TextRPG\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:33:50.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Enums.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest_TextRPG\\Enums.cs",
+              "ToolTip": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Enums.cs",
+              "RelativeToolTip": "ConsoleAppTest_TextRPG\\Enums.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:43:10.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\GameManager.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest_TextRPG\\GameManager.cs",
+              "ToolTip": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\GameManager.cs",
+              "RelativeToolTip": "ConsoleAppTest_TextRPG\\GameManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:43:15.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest_TextRPG\\Player.cs",
+              "ToolTip": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Player.cs",
+              "RelativeToolTip": "ConsoleAppTest_TextRPG\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:43:40.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Map.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest_TextRPG\\Map.cs",
+              "ToolTip": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Map.cs",
+              "RelativeToolTip": "ConsoleAppTest_TextRPG\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:43:36.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Item.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest_TextRPG\\Item.cs",
+              "ToolTip": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Item.cs",
+              "RelativeToolTip": "ConsoleAppTest_TextRPG\\Item.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAywDsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:43:31.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest_TextRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Program.cs",
+              "RelativeToolTip": "ConsoleAppTest_TextRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:39:03.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Character.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest_TextRPG\\Character.cs",
+              "ToolTip": "C:\\Users\\81908\\source\\repos\\ConsoleAppTest_TextRPG\\ConsoleAppTest_TextRPG\\Character.cs",
+              "RelativeToolTip": "ConsoleAppTest_TextRPG\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:44:06.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
